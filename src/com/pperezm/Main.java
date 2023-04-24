@@ -2,6 +2,12 @@ package com.pperezm;
 
 import java.util.Scanner;
 
+/*
+@author Pablo Arturo Pérez Mata
+@email pablo.arturo.perez@gmail.com
+@description Practica de calculo de Factorial recursivo
+*/
+
 public class Main {
 
     public static void main(String[] args) {
